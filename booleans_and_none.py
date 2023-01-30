@@ -38,7 +38,6 @@
 # print(bool(z)) # True
 
 
-
 # # None
 #
 # # None == null in a lot of other languages
@@ -56,6 +55,6 @@
 #
 #
 # print(type(x)) # <class 'NoneType'>
-# # Overall None is really good for placeholders, but it is not used for much.
+# # Overall None is good for placeholders, but it is not used for much.
 
 
