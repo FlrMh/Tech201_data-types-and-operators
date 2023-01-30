@@ -57,4 +57,6 @@
 # print(type(x)) # <class 'NoneType'>
 # # Overall None is good for placeholders, but it is not used for much.
 
+# WHEN USING TRUE/FALSE/NONE, YOU ALWAYS NEED TO CAPITALIZE THEM! OTHERWISE, THEY WILL NOT BE RECOGNISED.
+
 
