@@ -13,7 +13,7 @@
 # # It`s better practice to just use double_quotes for strings
 # # We can still use single_quotes
 #
-# escape_example = 'I said \'Wow!\''
+# escape_example = 'I said \'Wow!\' '
 # print(escape_example)
 #
 # quote_in_quote = 'I said "Wow"'
