@@ -1,4 +1,3 @@
-current_year = 2023
 
 print("Hello, what is your name?")
 name = input()
